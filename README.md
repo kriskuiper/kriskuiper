@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Kris Kuiper, a Front-end Developer at [Mooore Digital](https://www.mooore.nl/) 👋
+
+I'm good at building robust software for the web and like to build it with a user-centered and pragmatic mindset.
 
 <!--
 **kriskuiper/kriskuiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
