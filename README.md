@@ -3,7 +3,7 @@
 I'm good at building robust software for the web and like to build it with a user-centered and pragmatic mindset.
 
 - [:necktie: LinkedIn](https://www.linkedin.com/in/kris-kuiper-0b6897a2/) - *Let's connect if you want to follow my career path.*
-- [:mailbox: Email](mailto:kriskuiper74@gmail.com) - *Reach out to me regarding interesting things.*
+- [:mailbox: Email](mailto:mail@kris-kuiper.nl) - *Reach out to me regarding interesting things.*
 - [:computer: My website](https://kris-kuiper.nl/) - *Read more about me on my personal website.*
 
 <!--
