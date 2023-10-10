@@ -1,22 +1,10 @@
-### Hi! I'm Kris Kuiper, a Front-end Developer at [Mooore Digital](https://www.mooore.nl/) 👋
+<p align="center">
+  <samp>
+    <strong>Kris Kuiper, Front-end Developer & UX enthousiast</strong> <br />
+    Good at building awesome stuff for the web. <br /> <br />
+    <a href="https://www.linkedin.com/in/kris-kuiper-0b6897a2/">👔 LinkedIn</a> |
+    <a href="mailto:mail@kris-kuiper.nl">📫 Email me</a> |
+    <a href="https://kris-kuiper.nl">💻 Website</a> |
+  </samp>
 
-I'm good at building robust software for the web and like to build it with a user-centered and pragmatic mindset.
-
-- [:necktie: LinkedIn](https://www.linkedin.com/in/kris-kuiper-0b6897a2/) - *Let's connect if you want to follow my career path.*
-- [:mailbox: Email](mailto:mail@kris-kuiper.nl) - *Reach out to me regarding interesting things.*
-- [:computer: My website](https://kris-kuiper.nl/) - *Read more about me on my personal website.*
-
-<!--
-**kriskuiper/kriskuiper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
